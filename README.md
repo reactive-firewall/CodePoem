@@ -1,4 +1,4 @@
-*WARNING:* This code is NOT INTENDED TO RUN SAFLY
+*WARNING:* This code is NOT INTENDED TO RUN SAFELY
 ==================================================
 
 **WHILE STRICTLY RECOMMENDED YOU DO NOT RUN THE CODE:**
